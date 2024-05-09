@@ -16,7 +16,7 @@ namespace net_ef_videogame
                 Console.WriteLine("3. Visualizza il videogioco tramite id");
                 Console.WriteLine("4. Visualizza il videogioco tramite nome");
                 Console.WriteLine("5. Elimina un videogioco");
-                Console.WriteLine("0. Esci dal programma");
+                Console.WriteLine("0. Esci");
 
                 scelta = Console.ReadLine();
 
